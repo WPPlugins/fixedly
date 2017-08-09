@@ -1,0 +1,130 @@
+.fixedly-wrap h3 {
+    font-size: 18px;
+    font-weight: normal;
+}
+
+
+.fixedly-wrap h4 {
+    font-size: 16px;
+    margin-bottom: 15px;
+    font-weight: normal;
+}
+
+.fixedly-wrap table {
+    width: 98%;
+    background: #dedede;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    padding: 0px;
+}
+
+.fixedly-wrap tr {
+    background: #ececec;
+}
+
+.fixedly-wrap th {
+    text-align: left;
+    padding: 10px;
+    font-size: 14px;
+    color: #333;
+    font-weight: normal;
+    text-align: center;
+}
+
+.fixedly-wrap td {
+    vertical-align: top;
+    padding: 10px;
+}
+
+.fixedly-wrap .aleft {
+    text-align: left;
+}
+
+.fixedly-wrap .acenter {
+    text-align: center;
+}
+
+.fixedly-wrap .acenter a {
+    text-decoration: none;
+    border: 1px solid #dedede;
+    background: #efefef;
+    padding: 5px 10px 5px 10px;
+    display: inline-block;
+    color: #333;
+}
+
+.fixedly-wrap .acenter a:hover {
+    background: #eee;
+    border: 1px solid #fff;
+}
+
+.fixedly-wrap .vamiddle {
+    vertical-align: middle;
+}
+
+
+.fixedly-wrap .ftxt {
+    width: 99%;
+    height: 25px;
+}
+
+.fixedly-wrap .ftxt2 {
+    width: 64%;
+    height: 25px;
+}
+
+.fixedly-wrap .fta {
+    width: 99%;
+    height: 75px;
+}
+
+.fixedly-wrap label.error {
+    color: #d54e21;
+    font-weight: bold;;
+    text-align: right;
+    display: block;
+    width: 99%;
+}
+
+.fixedly-wrap p.success {
+    color: #333;
+    font-weight: bold;
+}
+
+.fixedly-wrap abbr {
+    cursor: pointer;
+}
+
+.fixedly-wrap .fixedly_edit input {
+    width: 140px !important;
+}
+
+.fixedly-wrap .fixedly_edit_area textarea {
+    width: 300px !important;
+    height: 103px !important;
+    display: block;
+    margin-bottom: 7px;
+}
+
+.fixedly-wrap .fixedly_slide_link input {
+    width: 140px !important;
+}
+
+.fixedly-wrap .hidden-row {
+    display: none;
+}
+
+.fixedly-by-line {
+    margin-top: 10px;
+    padding-top: 10px;
+    text-align: center;
+}
+
+.fixedly-wrap .one-col, .fixedly-wrap .two-col, .fixedly-wrap .two-col-slider, .media-table, .stylesheet-table, .scripts-table {
+    display: none;
+}
+
+.fixedly-wrap .nodec {
+    text-decoration: none;
+}
+
